@@ -48,7 +48,7 @@
     "async": "^2.5.0",
     "bluebird": "^3.5.1",
     "cheerio": "^1.0.0-rc.2",
-    "handlebars": "^4.0.11",
+    "handlebars": "^4.7.7",
     "html-entities": "^1.2.1",
     "html-to-json": "^0.6.0",
     "lodash": "^4.17.4",
